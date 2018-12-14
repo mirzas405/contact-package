@@ -1,0 +1,20 @@
+{
+    "name": "weanio/contact",
+    "description": "This will send email to admin and save contact query to database",
+    "type": "package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "salman",
+            "email": "salman.mirza@codextech.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+
+    "autoload": {
+        "psr-4": {
+            "Weanio\\Contact\\": "src/"
+        }
+    }
+}
