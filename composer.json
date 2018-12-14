@@ -16,5 +16,13 @@
         "psr-4": {
             "Weanio\\Contact\\": "src/"
         }
+    },
+
+    "extra": {
+    "laravel": {
+        "providers": [
+            "Weanio\\Contact\\ContactServiceProvider"
+        ],
     }
+  }
 }
