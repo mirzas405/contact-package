@@ -22,7 +22,7 @@
     "laravel": {
         "providers": [
             "Weanio\\Contact\\ContactServiceProvider"
-        ],
+        ]
     }
   }
 }
